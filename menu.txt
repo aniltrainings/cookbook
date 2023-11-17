@@ -4,3 +4,4 @@ spaghetti
 cheesecake
 sambar
 lemon juice
+lassi
